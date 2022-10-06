@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Vlad1999
-- 👀 I’m interested in The Art of Programming
-- 🌱 I’m currently learning ReactJS
+## 👋 Hi, I’m Vlad
+
+🔭 I’m currently working at Aimit
+
+👀 I’m interested in The Art of Programming
 
 <!---
 Vlad1999/Vlad1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
