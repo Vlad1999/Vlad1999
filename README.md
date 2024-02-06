@@ -6,7 +6,7 @@
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vlad1999/Vlad1999/output/github-contribution-grid-snake-dark.svg">
- <img alt="snake!" src="https://raw.githubusercontent.com/Vlad1999/Vlad1999/output/github-contribution-grid-snake-light.svg">
+ <img alt="snake!" src="https://raw.githubusercontent.com/Vlad1999/Vlad1999/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!---
