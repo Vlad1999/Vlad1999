@@ -4,7 +4,7 @@
 
 👀 I’m interested in The Art of Programming
 
-![snake gif](https://github.com/Vlad1999/Vlad1999/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Vlad1999/Vlad1999/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Vlad1999/Vlad1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
